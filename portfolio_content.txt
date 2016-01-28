@@ -1,0 +1,24 @@
+portfolio content
+
+description
+  background
+  what I love
+
+education
+  LSU
+  NOBTS
+  TTS
+
+projects
+  NOBA
+  Vintage
+  BRCCA
+
+
+links to social
+  github
+  linkedin
+  twitter
+  email contact
+
+photo(s)
