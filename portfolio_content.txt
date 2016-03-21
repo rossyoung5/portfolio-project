@@ -10,6 +10,7 @@ education
   TTS
 
 projects
+  wedding site
   NOBA
   Vintage
   BRCCA
